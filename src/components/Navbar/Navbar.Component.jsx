@@ -7,7 +7,7 @@ function NavSm(){
             <div>
                 <h3 className="text-xl font-bold">It All Starts Here!!</h3>
                 <span className="text-gray-400 text-xs flex items-center cursor-pointer hover: text-white">
-                Delhi NCR<BiChevronDown />
+                Chennai<BiChevronDown />
                 </span>
             </div>
             <div className=" w-8 h-8">
@@ -23,7 +23,7 @@ function NavMd(){
         <>
             <div className="w-10 h-10">
                 <img
-                    src="https://i.ibb.co/zPBYW3H/imgbin-bookmyshow-office-android-ticket-png.png"
+                    src="/resources/png/navbar-logo.png"
                     alt="logo"
                     className="w-full h-full"
                 />
@@ -41,7 +41,7 @@ function NavLg(){
             <div className="flex items-center w-1/2 gap-3">
                 <div className="w-10 h-10">
                     <img
-                        src="https://i.ibb.co/zPBYW3H/imgbin-bookmyshow-office-android-ticket-png.png"
+                        src="/resources/png/navbar-logo.png"
                         alt="logo"
                         className="w-full h-full"
                     />
@@ -55,7 +55,7 @@ function NavLg(){
             </div>
             <div className="flex items-center gap-3">
         <span className="text-gray-200 text-base flex items-center cursor-pointer hover:text-white">
-            Delhi NCR <BiChevronDown />
+            Chennai <BiChevronDown />
                 </span>
                 <button className="bg-red-600 text-white px-2 py-1 text-sm rounded">
                     Sign In
